@@ -320,10 +320,6 @@ If you use DisCo in your research, please cite:
 }
 ```
 
-## License
-
-[Add your license information here]
-
 ## Contact
 
 For questions or issues, please open an issue on GitHub or email - ss4711@rit.edu
